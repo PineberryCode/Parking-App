@@ -1,0 +1,10 @@
+view/welcome.class
+view/welcome$1.class
+view/automobile_client$1.class
+dao/connection_db.class
+dao/parameter.class
+model/ticket.class
+main/Parking.class
+model/client.class
+view/automobile_client.class
+model/automobile.class
